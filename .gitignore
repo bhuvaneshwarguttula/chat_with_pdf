@@ -1,0 +1,6 @@
+.venv
+faiss_index/
+.env
+api.txt
+app.py
+chatbot.py
